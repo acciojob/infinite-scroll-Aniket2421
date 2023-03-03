@@ -1,4 +1,4 @@
-const list = document.getElementById('myList');
+const list = document.getElementById('#infi-list');
 let page = 1;
 let isLoading = false;
 
